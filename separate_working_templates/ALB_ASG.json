@@ -207,11 +207,6 @@
          "Type":"String",
          "Default":"prod-ver",
          "Description":"Version"
-      },
-      "GitTag":{
-         "Type":"String",
-         "Default":"prod-git",
-         "Description":"git tag"
       }
    }
 }
